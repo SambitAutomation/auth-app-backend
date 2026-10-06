@@ -3,3 +3,7 @@ spring:
     name: auth-app-backend
   profiles:
     active: dev
+#localTest
+    
+
+    
